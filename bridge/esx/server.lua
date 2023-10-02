@@ -1,0 +1,3 @@
+        --[[    server bridge file: esx    ]]--
+-- server methods to adapt to the named framework
+------------------------------------------------------------

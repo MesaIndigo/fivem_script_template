@@ -1,0 +1,3 @@
+        --[[    shared bridge file: esx    ]]--
+-- shared methods to adapt to the named framework
+------------------------------------------------------------

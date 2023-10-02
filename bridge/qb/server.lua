@@ -1,0 +1,3 @@
+        --[[    server bridge file: qb    ]]--
+-- server methods to adapt to the named framework
+------------------------------------------------------------

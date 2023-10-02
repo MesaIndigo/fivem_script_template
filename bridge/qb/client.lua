@@ -1,0 +1,3 @@
+        --[[    client bridge file: qb    ]]--
+-- client methods to adapt to the named framework
+------------------------------------------------------------

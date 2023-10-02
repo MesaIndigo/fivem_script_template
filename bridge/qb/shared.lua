@@ -1,0 +1,3 @@
+        --[[    shared bridge file: qb    ]]--
+-- shared methods to adapt to the named framework
+------------------------------------------------------------

@@ -16,19 +16,43 @@ dependencies {
 
 }
 
---[[    manifest information    ]]--
-files {
+--[[    data information    ]]--
+ui_page {
+    -- main html file
 
 }
 
-shared_scripts {
+files {
+    -- all other html / css / js files
 
+}
+
+--[[    manifest information    ]]--
+shared_scripts {
+    -- bridge data
+    'bridge/esx/shared.lua',
+    'bridge/qb/shared.lua',
+    -- main data
+    'data/info.lua',
+    'data/version.txt',
+    'shared/config.lua'
 }
 
 client_scripts {
-
+    -- bridge data
+    'bridge/esx/client.lua',
+    'bridge/qb/client.lua',
+    -- main data
+    'client/main.lua',
+    'client/event/*.lua'
 }
 
 server_scripts {
-
+    -- bridge data
+    'bridge/esx/server.lua',
+    'bridge/qb/server.lua',
+    -- main data
+    'server/main.lua',
+    'server/version.lua',
+    'server/event/*.lua'
 }
