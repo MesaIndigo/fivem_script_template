@@ -1,7 +1,9 @@
-        --[[    shared bridge file: qb    ]]--
--- shared methods to adapt to the named framework
-------------------------------------------------------------
--- docs reference: https://docs.qbcore.org/qbcore-documentation
+return {
+                --[[    shared bridge file: qb    ]]--
+        -- shared methods to adapt to the named framework
+        ------------------------------------------------------------
+        -- docs reference: https://docs.qbcore.org/qbcore-documentation
 
--- script variables
-----------------------------------------
+        -- script variables
+        ----------------------------------------
+}
