@@ -1,4 +1,4 @@
-        --[[    client bridge file: esx    ]]--
+        --[[    client bridge file: ox    ]]--
 -- client methods to adapt to the named framework
 ------------------------------------------------------------
--- docs reference: https://documentation.esx-framework.org
+-- docs reference: https://overextended.dev

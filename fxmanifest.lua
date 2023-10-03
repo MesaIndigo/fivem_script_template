@@ -13,7 +13,9 @@ description 'template for making scripts'
 
 --[[    dependency information    ]]--
 dependencies {
-
+    'ox_lib',
+    'oxmysql',
+    'ox_target'
 }
 
 --[[    data information    ]]--
@@ -31,6 +33,7 @@ files {
 shared_scripts {
     -- bridge data
     'bridge/esx/shared.lua',
+    'bridge/ox/shared.lua',
     'bridge/qb/shared.lua',
     -- main data
     'data/info.lua',
@@ -41,6 +44,7 @@ shared_scripts {
 client_scripts {
     -- bridge data
     'bridge/esx/client.lua',
+    'bridge/ox/client.lua',
     'bridge/qb/client.lua',
     -- main data
     'client/main.lua',
@@ -50,6 +54,7 @@ client_scripts {
 server_scripts {
     -- bridge data
     'bridge/esx/server.lua',
+    'bridge/ox/server.lua',
     'bridge/qb/server.lua',
     -- main data
     'server/main.lua',

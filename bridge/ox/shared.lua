@@ -1,7 +1,7 @@
-        --[[    shared bridge file: qb    ]]--
+        --[[    shared bridge file: ox    ]]--
 -- shared methods to adapt to the named framework
 ------------------------------------------------------------
--- docs reference: https://docs.qbcore.org/qbcore-documentation
+-- docs reference: https://overextended.dev
 
 -- script variables
 ----------------------------------------

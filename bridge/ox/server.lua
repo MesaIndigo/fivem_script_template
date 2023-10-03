@@ -1,4 +1,4 @@
-        --[[    server bridge file: esx    ]]--
+        --[[    server bridge file: ox    ]]--
 -- server methods to adapt to the named framework
 ------------------------------------------------------------
--- docs reference: https://documentation.esx-framework.org
+-- docs reference: https://overextended.dev
