@@ -8,6 +8,7 @@ game 'gta5'
 name 'template'
 author 'username'
 version '1.0.0'
+license 'GNU General Public License v3.0'
 repository 'https://github.com/username/template'
 description 'template for making scripts'
 
